@@ -9,6 +9,12 @@ int main()
   while(num<=10);
   printf("%d", &num);
   num++;
+   
+  whlie(num<=20);
+  printf("%d", &num);
+  num+=2;
 
   return 0;
- } 
+ 
+}
+
