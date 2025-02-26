@@ -1,0 +1,44 @@
+<html>
+    <body>
+         <Table border="1", width="50", height="100", bycolor="white">
+            <caption> INVOICE </caption>
+            <tr>
+                <th>ItemDesc.</th>
+                <th>Qty</th>
+                <th>@</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <th>PaperClip(Box)</th>
+                <th>100</th>
+                <th>1.15</th>
+                <th>115</th>
+            </tr>
+            <tr>
+                <th>Paper(case)</th>
+                <th>20</th>
+                <th>20</th>
+                <th>400</th>
+            </tr>
+            <tr>
+                <th>WaterPaparBacksheet</th>
+                <th>2</th>
+                <th>47.34</th>
+                <th>95.88</th>
+            </tr>
+            <tr>
+                <th colspan="3">SubTool</th>
+                <th>610.88</th>
+            </tr>
+            <tr>
+                <th colspan="2">Tax</th>
+                <th>7%</th>
+                <th>42.33</th>
+            </tr>
+            <tr>
+                <th colspan="3">Total</th>
+                <th>653.64</th>
+            </tr>
+         </Table>
+    </body>
+</html>
