@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <table border="1", width="100%, height="100%, align="center">
+            <tr>
+                <td colspan="3"><center> Go airways</center> <br>
+                we stand by <br>
+                 the <br>
+                 customer</td>
+            </tr>
+            <tr aria-rowspan="2">
+                <td rowspan="2">important note on<br>
+
