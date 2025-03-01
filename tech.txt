@@ -1,0 +1,23 @@
+<html>
+    <body>
+        <li><h1> fronted</h1></li>
+        <ul>
+             <li>HTML</li>
+              <li>CSS</li>
+                
+                <ul>
+                    <li>onsubmit attribute</li>
+                    <li>onclick attribute</li>
+                </ul>
+            <li>JavaScript</li>
+                </ul>
+       <h2> <li>library/framework</li></h2> 
+       <ul> 
+        <li>reactJS</li>
+        <ul>
+           <li>hoisting</li>
+           <li>props</li>
+        </ul>
+        </ul>
+    </body>
+</html>
