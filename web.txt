@@ -1,0 +1,29 @@
+<html>
+    <body>
+    <table border="1", width="100%, height="100%", align="center", bgcolor="blue">
+        <tr>
+        <th>phone</th>
+        <th>specification</th>
+        </tr>
+        <tr>
+            <th>    </th>
+            <th>price</th>
+            <th>ram</th>
+            <th>processor</th>
+
+        </tr>
+        <tr>
+            <th>W3schools</th>
+            <th>academind</th>
+            <th>programming hero</th>
+            <th>processor</th>
+        </tr>
+        <tr>
+            <th>khan academy</th>
+            <th>the coding</th>
+            <th>solo learn</th>
+            <th>processor</th>
+        </tr>        
+    </table>
+    </body>
+</html>
