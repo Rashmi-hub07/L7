@@ -1,0 +1,40 @@
+<html>
+  <head>
+   <title> Table </title>
+   </head>
+   <body>
+   <h1>Student Grade Report</h1>
+   <table border="1">
+   <tr bgcolor="red">
+   <th> Student Name</th>
+   
+   <th>Marks</th>
+   <th>Science</th>
+   <th>English</th>
+
+   </tr>
+   
+   <tr bgcolor="pink">
+   <td>Bob</td>
+   <td>78</td>
+   <td>85</td>
+   <td>80</td>
+   </tr>
+
+   <tr bgcolor="pink">
+   <td>Charlie</td>
+   <td>92</td>
+   <td>89</td>
+   <td>95</td>
+   </tr>
+
+   <tr bgcolor="yellow">
+   <td>Average Score</td>
+   <td>85</td>
+   <td>88</td>
+   <td>87</td>
+   </tr>
+
+   </table>
+   </body>
+   </html>
