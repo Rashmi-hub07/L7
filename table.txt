@@ -1,0 +1,41 @@
+<html>
+    <body>
+    <table border="1", width="75%">
+        <tr >
+            <th >www</th>
+            <th >Internet</th>
+        </tr>
+        <tr >
+            <td >www is vast collection of informations which is accessed via interbet</td>
+            <td >internet means it is a network which connects between the computers acrosss the world</td>
+            <tr >
+                <td>  www stands for world wide web</td>
+                <td >internet is a global network of networks</td>
+            </tr>
+            <tr>
+                <td >at advance level ,to understand we think of that www is a software</td>
+                <td >at advance level , to understand we think of that internet is a hardware</td>
+            </tr>
+            <tr>
+                <td>www is comparibly software accessed via internet</td>
+                <td >internet is primarily a hardware components</td>
+            </tr>
+            <tr>
+                <td >In the first www is known as NEFNET</td>
+                <td >the first version of internet is ARPANET</td>
+            </tr>
+            <tr>
+                <td >this was invented by a english scientist Tim Berners-Lee in 1989</td>
+                <td >it is originated sometimes at late 1960's</td>
+            </tr>
+            <tr>
+                <td >www uses HTTP</td>
+                <td>internet uses TCP/IP</td>
+            </tr>
+            <tr>
+                <td > www is subset of internet</td>
+                <td >internet is a superset of www</td>
+            </tr>
+    </table>
+    </body>
+</html>
